@@ -228,8 +228,6 @@ public class ManageCustomerFormController implements Initializable {
 
     }
 
-    //============================ DB Related Operations ==========================
-
 
 }
 
